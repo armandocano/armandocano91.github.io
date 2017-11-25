@@ -1,3 +1,9 @@
 body {
     background-color: #D3D3D3;
 }
+
+
+ img{.container img {
+    width: 100%;
+    height: auto;
+}
