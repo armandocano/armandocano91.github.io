@@ -28,3 +28,8 @@ ul {
 p.author {
   font-size: 12 px;
 }
+
+img {
+    position: relative ;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: inherit ;
